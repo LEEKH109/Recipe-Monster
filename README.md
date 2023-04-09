@@ -1,5 +1,5 @@
 # Recipe-Monster
-<img src="https://user-images.githubusercontent.com/108852263/230768754-32c123fb-b746-4f2d-ab45-c7cc5993cdbf.jpeg" width="1000" height="550"/>
+<img src="https://user-images.githubusercontent.com/108852263/230768754-32c123fb-b746-4f2d-ab45-c7cc5993cdbf.jpeg" width="1000" height="500"/>
 
 
 ## RecipeMonster는
@@ -29,13 +29,13 @@ Server는 Express.js를 이용한 간단한 Server 와 Firebase를 이용한 방
 
 
 ### 기본 상태
-<img src="https://user-images.githubusercontent.com/108852263/230768444-c4830501-be08-4e9b-9c26-6ee11614cb74.png" width="1200" height="600"/>
+<img src="https://user-images.githubusercontent.com/108852263/230768444-c4830501-be08-4e9b-9c26-6ee11614cb74.png" width="1000" height="500"/>
 
 ### 로그인 클릭시
-<img src="https://user-images.githubusercontent.com/108852263/230768448-a4381b09-8c57-49b3-be1b-49cf3c7de650.png" width="1200" height="600"/>
+<img src="https://user-images.githubusercontent.com/108852263/230768448-a4381b09-8c57-49b3-be1b-49cf3c7de650.png" width="1000" height="500"/>
 
 ### 회원가입 클릭시
-<img src="https://user-images.githubusercontent.com/108852263/230768454-9f56e473-e367-42e1-9548-e15699ff600e.png" width="1200" height="600"/>
+<img src="https://user-images.githubusercontent.com/108852263/230768454-9f56e473-e367-42e1-9548-e15699ff600e.png" width="1000" height="500"/>
 
 </details>
 
