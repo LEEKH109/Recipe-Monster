@@ -1,26 +1,26 @@
 import React from 'react';
-import logo from './logo.svg';
+import styled, { keyframes } from 'styled-components';
+import RisingButton from './RisingButton';
 import './App.css';
 
 function App() {
-  return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.tsx</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
-  );
+	return (
+		<div className='App'>
+			<header className='App-header'>
+				<Container>
+					<RisingButton />
+					<RisingButton />
+				</Container>
+			</header>
+		</div>
+	);
 }
 
+const Container = styled.div`
+	width: 100%;
+	height: 1000px;
+	display: flex;
+	justify-content: center;
+	align-content: center;
+`;
 export default App;
